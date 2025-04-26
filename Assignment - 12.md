@@ -9,7 +9,7 @@
     
 - Behavioral therapy
     
-- **Logotherapy**  
+- Logotherapy 
     **Answer:** Logotherapy
     
 
@@ -21,7 +21,7 @@
     
 - Purpose
     
-- **Significance**
+- Significance
     
 - All of these  
     **Answer:** Significance
@@ -33,7 +33,7 @@
 
 - Coherence
     
-- **Purpose**
+- Purpose
     
 - Significance
     
@@ -49,7 +49,7 @@
     
 - Extrinsic goals
     
-- **SMART goals**
+- SMART goals
     
 - Self-actualization  
     **Answer:** SMART goals
@@ -77,7 +77,7 @@
     
 - Purpose
     
-- **Significance**
+- Significance
     
 - None of these  
     **Answer:** Significance
@@ -93,7 +93,7 @@
     
 - Freedom to achieve external goals
     
-- **Freedom to choose one's attitude in any given circumstance**  
+- Freedom to choose one's attitude in any given circumstance 
     **Answer:** Freedom to choose one's attitude in any given circumstance
     
 
@@ -101,7 +101,7 @@
 
 **8. What is one way Frankl suggested individuals can discover meaning in life?**
 
-- **Creating a work or doing a deed**
+- Creating a work or doing a deed
     
 - Avoiding all forms of suffering
     
@@ -117,7 +117,7 @@
 
 - Extrinsic goals are inherently unsatisfying
     
-- **People quickly adapt to extrinsic goals**
+- People quickly adapt to extrinsic goals
     
 - Satisfaction from extrinsic goals is dependent on external factors
     
@@ -131,7 +131,7 @@
 
 - Intrinsic goals
     
-- **Extrinsic goals**
+- Extrinsic goals
     
 - Both intrinsic and extrinsic goals
     
